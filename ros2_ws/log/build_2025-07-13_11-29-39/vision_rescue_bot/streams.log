@@ -1,0 +1,40 @@
+[0.231s] Invoking command in '/home/npwitk/ros2_ws/src/vision_rescue_bot': PYTHONPATH=/home/npwitk/ros2_ws/build/vision_rescue_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/npwitk/ros2_ws/install/vision_rescue_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/vision_rescue_bot build --build-base /home/npwitk/ros2_ws/build/vision_rescue_bot/build install --record /home/npwitk/ros2_ws/build/vision_rescue_bot/install.log --single-version-externally-managed install_data
+[0.310s] running egg_info
+[0.310s] creating ../../build/vision_rescue_bot/vision_rescue_bot.egg-info
+[0.310s] writing ../../build/vision_rescue_bot/vision_rescue_bot.egg-info/PKG-INFO
+[0.310s] writing dependency_links to ../../build/vision_rescue_bot/vision_rescue_bot.egg-info/dependency_links.txt
+[0.310s] writing entry points to ../../build/vision_rescue_bot/vision_rescue_bot.egg-info/entry_points.txt
+[0.311s] writing requirements to ../../build/vision_rescue_bot/vision_rescue_bot.egg-info/requires.txt
+[0.311s] writing top-level names to ../../build/vision_rescue_bot/vision_rescue_bot.egg-info/top_level.txt
+[0.311s] writing manifest file '../../build/vision_rescue_bot/vision_rescue_bot.egg-info/SOURCES.txt'
+[0.311s] reading manifest file '../../build/vision_rescue_bot/vision_rescue_bot.egg-info/SOURCES.txt'
+[0.312s] writing manifest file '../../build/vision_rescue_bot/vision_rescue_bot.egg-info/SOURCES.txt'
+[0.312s] running build
+[0.312s] running build_py
+[0.312s] creating /home/npwitk/ros2_ws/build/vision_rescue_bot/build
+[0.312s] creating /home/npwitk/ros2_ws/build/vision_rescue_bot/build/lib
+[0.312s] creating /home/npwitk/ros2_ws/build/vision_rescue_bot/build/lib/vision_rescue_bot
+[0.312s] copying vision_rescue_bot/camera_simulator.py -> /home/npwitk/ros2_ws/build/vision_rescue_bot/build/lib/vision_rescue_bot
+[0.312s] copying vision_rescue_bot/vision_node.py -> /home/npwitk/ros2_ws/build/vision_rescue_bot/build/lib/vision_rescue_bot
+[0.312s] copying vision_rescue_bot/__init__.py -> /home/npwitk/ros2_ws/build/vision_rescue_bot/build/lib/vision_rescue_bot
+[0.312s] running install
+[0.312s] running install_lib
+[0.312s] creating /home/npwitk/ros2_ws/install/vision_rescue_bot/lib/python3.10/site-packages/vision_rescue_bot
+[0.312s] copying /home/npwitk/ros2_ws/build/vision_rescue_bot/build/lib/vision_rescue_bot/camera_simulator.py -> /home/npwitk/ros2_ws/install/vision_rescue_bot/lib/python3.10/site-packages/vision_rescue_bot
+[0.313s] copying /home/npwitk/ros2_ws/build/vision_rescue_bot/build/lib/vision_rescue_bot/vision_node.py -> /home/npwitk/ros2_ws/install/vision_rescue_bot/lib/python3.10/site-packages/vision_rescue_bot
+[0.313s] copying /home/npwitk/ros2_ws/build/vision_rescue_bot/build/lib/vision_rescue_bot/__init__.py -> /home/npwitk/ros2_ws/install/vision_rescue_bot/lib/python3.10/site-packages/vision_rescue_bot
+[0.313s] byte-compiling /home/npwitk/ros2_ws/install/vision_rescue_bot/lib/python3.10/site-packages/vision_rescue_bot/camera_simulator.py to camera_simulator.cpython-310.pyc
+[0.313s] byte-compiling /home/npwitk/ros2_ws/install/vision_rescue_bot/lib/python3.10/site-packages/vision_rescue_bot/vision_node.py to vision_node.cpython-310.pyc
+[0.313s] byte-compiling /home/npwitk/ros2_ws/install/vision_rescue_bot/lib/python3.10/site-packages/vision_rescue_bot/__init__.py to __init__.cpython-310.pyc
+[0.313s] running install_data
+[0.313s] creating /home/npwitk/ros2_ws/install/vision_rescue_bot/share/ament_index
+[0.314s] creating /home/npwitk/ros2_ws/install/vision_rescue_bot/share/ament_index/resource_index
+[0.314s] creating /home/npwitk/ros2_ws/install/vision_rescue_bot/share/ament_index/resource_index/packages
+[0.314s] copying resource/vision_rescue_bot -> /home/npwitk/ros2_ws/install/vision_rescue_bot/share/ament_index/resource_index/packages
+[0.314s] copying package.xml -> /home/npwitk/ros2_ws/install/vision_rescue_bot/share/vision_rescue_bot
+[0.314s] running install_egg_info
+[0.314s] Copying ../../build/vision_rescue_bot/vision_rescue_bot.egg-info to /home/npwitk/ros2_ws/install/vision_rescue_bot/lib/python3.10/site-packages/vision_rescue_bot-0.0.0-py3.10.egg-info
+[0.314s] running install_scripts
+[0.322s] Installing vision_node script to /home/npwitk/ros2_ws/install/vision_rescue_bot/lib/vision_rescue_bot
+[0.322s] writing list of installed files to '/home/npwitk/ros2_ws/build/vision_rescue_bot/install.log'
+[0.335s] Invoked command in '/home/npwitk/ros2_ws/src/vision_rescue_bot' returned '0': PYTHONPATH=/home/npwitk/ros2_ws/build/vision_rescue_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/npwitk/ros2_ws/install/vision_rescue_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/vision_rescue_bot build --build-base /home/npwitk/ros2_ws/build/vision_rescue_bot/build install --record /home/npwitk/ros2_ws/build/vision_rescue_bot/install.log --single-version-externally-managed install_data

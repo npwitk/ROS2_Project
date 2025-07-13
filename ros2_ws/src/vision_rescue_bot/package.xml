@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypes="xml"?>
+<package format="3">
+  <name>vision_rescue_bot</name>
+  <version>0.0.0</version>
+  <description>Basic vision processing for rescue robot - learning project</description>
+  <maintainer email="hey@npwitk.com">Nonprawich I.</maintainer>
+  <license>Apache-2.0</license>
+
+  <!-- Dependencies (like Podfile in iOS) -->
+  <depend>rclpy</depend>
+  <depend>sensor_msgs</depend>
+  <depend>std_msgs</depend>
+  <depend>cv_bridge</depend>
+  
+  <!-- Python-specific dependencies -->
+  <exec_depend>python3-opencv</exec_depend>
+  <exec_depend>python3-numpy</exec_depend>
+
+  <test_depend>ament_copyright</test_depend>
+  <test_depend>ament_flake8</test_depend>
+  <test_depend>ament_pep257</test_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>

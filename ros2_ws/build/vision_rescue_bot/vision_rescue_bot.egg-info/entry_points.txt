@@ -1,0 +1,4 @@
+[console_scripts]
+camera_simulator = vision_rescue_bot.camera_simulator:main
+vision_node = vision_rescue_bot.vision_node:main
+

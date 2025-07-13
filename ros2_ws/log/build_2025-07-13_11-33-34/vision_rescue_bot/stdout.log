@@ -1,0 +1,20 @@
+running egg_info
+writing ../../build/vision_rescue_bot/vision_rescue_bot.egg-info/PKG-INFO
+writing dependency_links to ../../build/vision_rescue_bot/vision_rescue_bot.egg-info/dependency_links.txt
+writing entry points to ../../build/vision_rescue_bot/vision_rescue_bot.egg-info/entry_points.txt
+writing requirements to ../../build/vision_rescue_bot/vision_rescue_bot.egg-info/requires.txt
+writing top-level names to ../../build/vision_rescue_bot/vision_rescue_bot.egg-info/top_level.txt
+reading manifest file '../../build/vision_rescue_bot/vision_rescue_bot.egg-info/SOURCES.txt'
+writing manifest file '../../build/vision_rescue_bot/vision_rescue_bot.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/npwitk/ros2_ws/install/vision_rescue_bot/lib/python3.10/site-packages/vision_rescue_bot-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/vision_rescue_bot/vision_rescue_bot.egg-info to /home/npwitk/ros2_ws/install/vision_rescue_bot/lib/python3.10/site-packages/vision_rescue_bot-0.0.0-py3.10.egg-info
+running install_scripts
+Installing camera_simulator script to /home/npwitk/ros2_ws/install/vision_rescue_bot/lib/vision_rescue_bot
+Installing vision_node script to /home/npwitk/ros2_ws/install/vision_rescue_bot/lib/vision_rescue_bot
+writing list of installed files to '/home/npwitk/ros2_ws/build/vision_rescue_bot/install.log'
